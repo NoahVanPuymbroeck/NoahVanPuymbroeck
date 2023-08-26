@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NoahVanPuymbroeck
-- 👀 I’m interested in football
-- 🌱 I’m currently learning web development
+- 👀 I’m interested in football/gaming
+- 🌱 I’m currently learning software development
 - 💞️ I’m looking to collaborate on websites
-- 📫 How to reach me noah.vanpuymbroeck@student.thomasmore.be
+- 📫 How to reach me noahvp@icloud.com
