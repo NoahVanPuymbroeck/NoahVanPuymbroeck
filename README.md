@@ -45,7 +45,7 @@ Hey! I'm Noah Van Puymbroeck, a passionate coder from Antwerp, Belgium. I'm curr
 
 ![Noah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NoahVanPuymbroeck&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?NoahVanPuymbroecke&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?NoahVanPuymbroeck&layout=compact&theme=radical)
 
 ## 🏆 Achievements
 
